@@ -1,12 +1,8 @@
-<script setup>
-import Player from "./components/Player.vue";
-</script>
-
 <template>
   <header>
     <img alt="Vue logo" src="./assets/white.png" width="143" height="40" />
     <div class="menu">
-      <span>Introduction</span>
+      <span class="green">Introduction</span>
       <span>Podcast</span>
       <span>Intervenants</span>
       <span>Membres</span>
@@ -46,10 +42,10 @@ import Player from "./components/Player.vue";
         />
       </audio>
     </div>
-  </div>
+  <br></div>
 
   <div class="profil">
-    <h1>Intervenants</h1>
+    <h1>Membres</h1><br>
     <div class="inter1">
       <img src="./assets/img2.jpeg" alt="" />
       <p>

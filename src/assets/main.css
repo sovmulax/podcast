@@ -23,7 +23,6 @@ header {
 
 .intro {
   padding: 5rem 10rem 0 10rem;
-  color: #181818;
 }
 
 .intro > h1 {
@@ -36,7 +35,6 @@ header {
 
 .podcast {
   width: 100%;
-  color: #181818;
   display: flex;
   flex-wrap: wrap;
   flex-direction: column;
@@ -58,7 +56,6 @@ audio {
 
 span,
 h1 {
-  color: #181818;
   text-align: center;
 }
 
