@@ -1,5 +1,5 @@
 <script setup>
-import Player from './components/Player.vue';
+import Player from "./components/Player.vue";
 </script>
 
 <template>
@@ -12,6 +12,7 @@ import Player from './components/Player.vue';
       <span>Membres</span>
     </div>
   </header>
+
   <div class="intro">
     <h1>Introduction</h1>
     <br />
@@ -37,61 +38,58 @@ import Player from './components/Player.vue';
     <div>
       <br />
       <br />
-      <img alt="Vue logo" src="./assets/cover.png" /><br>
+      <img alt="Vue logo" src="./assets/cover.png" /><br />
+      <audio controls>
+        <source
+          src="https://ia800905.us.archive.org/19/items/FREE_background_music_dhalius/backsound.mp3"
+          type="audio/mp3"
+        />
+      </audio>
+    </div>
+  </div>
 
+  <div class="profil">
+    <h1>Intervenants</h1>
+    <div class="inter1">
+      <img src="./assets/img2.jpeg" alt="" />
+      <p>
+        <h2>Touré Aly Aboubacar</h2>
+        Lorem ipsum dolor sit, amet consectetur adipisicing elit. Iusto, assumenda
+        laudantium iste itaque rerum similique possimus adipisci cumque eum quos maxime
+        magni praesentium. Aspernatur ex numquam enim deserunt dolor! Amet. Lorem ipsum
+        dolor sit amet consectetur adipisicing elit. Itaque expedita rerum iste ea
+        excepturi illum, eius, unde eum possimus, aliquam doloribus dolor natus laborum
+        nemo ab minima autem numquam suscipit.
+      </p>
+    </div>
+    <div class="interX">
+      <div class="inter2">
+        <img src="./assets/img1.jpeg" alt="" />
+        <p>
+          <h2>Soumaila Géoffroy Evane</h2>
+        Lorem ipsum dolor sit, amet consectetur adipisicing elit. Iusto, assumenda
+        laudantium iste itaque rerum similique possimus adipisci cumque eum quos maxime
+        magni praesentium. Aspernatur ex numquam enim deserunt dolor! Amet. Lorem ipsum
+        dolor sit amet consectetur adipisicing elit. Itaque expedita rerum iste ea
+        excepturi illum, eius, unde eum possimus, aliquam doloribus dolor natus laborum
+        nemo ab minima autem numquam suscipit.
+        </p>
+      </div>
+      <div class="inter"></div>
+      <div class="inter3">
+        <img src="./assets/img3.jpeg" alt="" />
+        <p>
+          <h2>Oka Mira Ingrid</h2>
+        Lorem ipsum dolor sit, amet consectetur adipisicing elit. Iusto, assumenda
+        laudantium iste itaque rerum similique possimus adipisci cumque eum quos maxime
+        magni praesentium. Aspernatur ex numquam enim deserunt dolor! Amet. Lorem ipsum
+        dolor sit amet consectetur adipisicing elit. Itaque expedita rerum iste ea
+        excepturi illum, eius, unde eum possimus, aliquam doloribus dolor natus laborum
+        nemo ab minima autem numquam suscipit.
+        </p>
+      </div>
     </div>
   </div>
 </template>
 
-<style scoped>
-header {
-  display: flex;
-  justify-content: space-between;
-  margin-top: 1rem;
-  padding: 1rem 3rem 1rem 3rem;
-  width: 100%;
-}
-
-.menu {
-  width: 30%;
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-}
-
-.intro {
-  padding: 5rem 10rem 0 10rem;
-  color: #181818;
-}
-
-.intro > h1 {
-  text-align: center;
-}
-
-.intro > p {
-  text-align: justify;
-}
-
-.podcast {
-  width: 100%;
-  color: #181818;
-  display: flex;
-  flex-wrap: wrap;
-  flex-direction: column;
-  justify-content: center;
-  text-align: center;
-}
-
-.podcast > h1 {
-  text-align: center;
-}
-
-.podcast > div > img {
-  width: 50%;
-}
-
-span,
-h1 {
-  color: #181818;
-}
-</style>
+<style scoped></style>
