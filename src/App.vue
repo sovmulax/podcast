@@ -37,7 +37,7 @@
       <img alt="Vue logo" src="./assets/cover.png" /><br />
       <audio controls>
         <source
-          src="https://ia800905.us.archive.org/19/items/FREE_background_music_dhalius/backsound.mp3"
+          src="./assets/audio.mp3"
           type="audio/mp3"
         />
       </audio>
@@ -50,12 +50,7 @@
       <img src="./assets/img2.jpeg" alt="" />
       <p>
         <h2>Touré Aly Aboubacar</h2>
-        Lorem ipsum dolor sit, amet consectetur adipisicing elit. Iusto, assumenda
-        laudantium iste itaque rerum similique possimus adipisci cumque eum quos maxime
-        magni praesentium. Aspernatur ex numquam enim deserunt dolor! Amet. Lorem ipsum
-        dolor sit amet consectetur adipisicing elit. Itaque expedita rerum iste ea
-        excepturi illum, eius, unde eum possimus, aliquam doloribus dolor natus laborum
-        nemo ab minima autem numquam suscipit.
+        Journaliste et animateur télé à la Radio Télévision Ivoirienne, j'ai remporté le prix du meilleur animateur de la sous-région. J'ai également travaillé comme formateur en prise de parole en public et en développement personnel dans les radios locales. Gravissant les échelons, je suis aujourd'hui incontournable dans le domaine de la maîtrise de cérémonie et à la télévision en tant qu'animateur.
       </p>
     </div>
     <div class="interX">
@@ -63,25 +58,14 @@
         <img src="./assets/img1.jpeg" alt="" />
         <p>
           <h2>Soumaila Géoffroy Evane</h2>
-        Lorem ipsum dolor sit, amet consectetur adipisicing elit. Iusto, assumenda
-        laudantium iste itaque rerum similique possimus adipisci cumque eum quos maxime
-        magni praesentium. Aspernatur ex numquam enim deserunt dolor! Amet. Lorem ipsum
-        dolor sit amet consectetur adipisicing elit. Itaque expedita rerum iste ea
-        excepturi illum, eius, unde eum possimus, aliquam doloribus dolor natus laborum
-        nemo ab minima autem numquam suscipit.
-        </p>
+          Je suis le fondateur de Latash, la première entreprise de blockchain en Côte d'Ivoire. Je suis passionné par les technologies émergentes et convaincu de leur potentiel de transformation. Grâce à mon expérience solide et ma compréhension approfondie de l'écosystème de la blockchain, j'ai créé Latash pour promouvoir l'adoption de la blockchain en Côte d'Ivoire. En tant que leader charismatique, je suis fier de diriger une équipe passionnée et déterminée à faire de Latash une entreprise de référence dans le domaine de la blockchain en Afrique de l'Ouest.        </p>
       </div>
       <div class="inter"></div>
       <div class="inter3">
         <img src="./assets/img3.jpeg" alt="" />
         <p>
           <h2>Oka Mira Ingrid</h2>
-        Lorem ipsum dolor sit, amet consectetur adipisicing elit. Iusto, assumenda
-        laudantium iste itaque rerum similique possimus adipisci cumque eum quos maxime
-        magni praesentium. Aspernatur ex numquam enim deserunt dolor! Amet. Lorem ipsum
-        dolor sit amet consectetur adipisicing elit. Itaque expedita rerum iste ea
-        excepturi illum, eius, unde eum possimus, aliquam doloribus dolor natus laborum
-        nemo ab minima autem numquam suscipit.
+          Mme Oka Mira Ruth est une professionnelle chevronnée de la communication et des technologies de l'information et de la communication, qui a été nommée Ministre de la Communication et de l'Économie Numérique de la Côte d'Ivoire en juillet 2021. Elle est responsable de superviser les politiques et les programmes visant à promouvoir l'utilisation des technologies de l'information et de la communication dans tous les secteurs de la société ivoirienne et de réglementer le secteur des TIC en Côte d'Ivoire.
         </p>
       </div>
     </div>
