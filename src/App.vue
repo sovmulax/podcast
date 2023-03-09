@@ -6,6 +6,7 @@
       <span>Podcast</span>
       <span>Intervenants</span>
       <span>Membres</span>
+      <span>Production</span>
     </div>
   </header>
 
@@ -69,6 +70,15 @@
         </p>
       </div>
     </div>
+  </div>
+
+  <div class="production">
+  <h1>Équipe de Production</h1>
+  <br><br>
+    <ul>
+      <li>Touré Fouseyni</li>
+      <li>Zabré Joseph</li>
+    </ul>
   </div>
 </template>
 

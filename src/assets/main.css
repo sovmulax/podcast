@@ -110,6 +110,10 @@ h1 {
   text-align: justify;
 } 
 
+.production{
+  padding: 0 7rem 5rem 5rem;
+}
+
 @media (max-width: 1000px) {
   .menu {
     width: 60%;
